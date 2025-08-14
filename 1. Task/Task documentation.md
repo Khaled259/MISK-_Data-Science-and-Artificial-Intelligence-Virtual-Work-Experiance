@@ -7,7 +7,7 @@ To ensure a solid foundation for this task, I first completed the relevant Micro
    - Explore fundamentals of Azure Cosmos DB
 
 ![Screenshot of completed learning modules for Task 1](https://github.com/Khaled259/MISK-_Data-Science-and-Artificial-Intelligence-Virtual-Work-Experiance/blob/main/1.%20Task/4.%20Non%20relational%20data%20in%20azure%20Learned.png)
- - [Learning Path Link](https://learn.microsoft.com/api/achievements/share/en-us/KhaledHamed-2514/YEHAF42R?sharingId=96B32B6F3507C5E9)).
+ - [Learning Path Link](https://learn.microsoft.com/api/achievements/share/en-us/KhaledHamed-2514/YEHAF42R?sharingId=96B32B6F3507C5E9).
 
 ---
 
