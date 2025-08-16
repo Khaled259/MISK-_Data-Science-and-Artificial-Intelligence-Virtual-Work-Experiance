@@ -10,6 +10,7 @@ The task was accomplished by building a data copy pipeline using the Azure Data 
 
 1.  **Data Staging:**
     -   First, the source data file (`emp.txt`) was manually uploaded to a blob container named `adftutorial` inside a folder designated as `input`. This simulates the availability of raw data ready for processing.
+    -   ![Screenshot of the adftutorial container](https://github.com/Khaled259/MISK-_Data-Science-and-Artificial-Intelligence-Virtual-Work-Experiance/blob/17d922330e61abed0fe8b032a23740b2d65276ff/2.%20Task/1.%20adftoturial%20Blob%20Container.png)
 
 2.  **Pipeline Creation using Azure Data Factory:**
     -   Using the **Copy Data tool** in ADF, a new pipeline was configured.
@@ -19,8 +20,11 @@ The task was accomplished by building a data copy pipeline using the Azure Data 
 
 3.  **Pipeline Execution and Monitoring:**
     -   The pipeline was triggered, and the run was monitored through the ADF "Monitor" tab to confirm its successful execution.
+      
 
 #### 📄 Deliverable
 A screenshot of the "Deployment complete" page in Azure Data Factory, confirming that the pipeline ran successfully and the `emp.txt` file was copied from the `input` folder to the `output` folder.
 
 ![Screenshot of successful ADF Pipeline run](https://github.com/Khaled259/MISK-_Data-Science-and-Artificial-Intelligence-Virtual-Work-Experiance/blob/53a7b889eb2b54f4bfb33fa0a58033e1d547d204/2.%20Task%20/2.Deployment%20Complete.png)
+
+ ![Screenshot of the adftutorial container outputfolder](https://github.com/Khaled259/MISK-_Data-Science-and-Artificial-Intelligence-Virtual-Work-Experiance/blob/17d922330e61abed0fe8b032a23740b2d65276ff/2.%20Task/4.%20output%20folder.png)
