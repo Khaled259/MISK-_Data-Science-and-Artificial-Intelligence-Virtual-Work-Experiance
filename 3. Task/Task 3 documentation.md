@@ -7,7 +7,7 @@ As a foundational first step, my task was to develop a proof-of-concept model th
 
 
 #### 🎯 Paths learned
-    1. ![Introduction to computer vision concepts](https://learn.microsoft.com/en-us/training/modules/introduction-computer-vision)
+    1.![Introduction to computer vision concepts](https://learn.microsoft.com/en-us/training/modules/introduction-computer-vision)
     
 
 ---
