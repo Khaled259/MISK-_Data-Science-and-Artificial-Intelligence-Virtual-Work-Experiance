@@ -5,11 +5,9 @@ Building on the successful data pipeline from Task 2, my manager assigned the ne
 
 As a foundational first step, my task was to develop a proof-of-concept model that could solve a simpler problem: **classifying whether an uploaded image contains a car or not.**
 
-
+---
 #### 🎯 Paths learned
  
-
----
 [Visually monitor Azure Data Factory](https://learn.microsoft.com/en-us/training/modules/introduction-computer-vision/)
 
 #### ⚙️ Solution and Workflow
