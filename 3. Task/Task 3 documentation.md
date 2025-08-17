@@ -30,5 +30,4 @@ To tackle this, I used **Azure's Custom Vision service**, an AI tool designed fo
 #### 📄 Results and Deliverable
 The model successfully met the project's requirement. The deliverable was a screenshot of the model's performance results, demonstrating a **Precision score of 60% or higher.**
 
-![Screenshot of Custom Vision Model Performance](path_to_your_task3_screenshot.png)
-> **Note:** Remember to upload your screenshot for Task 3 and replace `path_to_your_task3_screenshot.png` with the actual file path.
+![Screenshot of Custom Vision Model Performance](https://github.com/Khaled259/MISK-_Data-Science-and-Artificial-Intelligence-Virtual-Work-Experiance/blob/9746296a019c833470c0f92ae389f9cb9e8c08b5/3.%20Task/2.%20Model%20Performance.png)
