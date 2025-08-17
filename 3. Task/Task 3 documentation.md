@@ -11,6 +11,7 @@ As a foundational first step, my task was to develop a proof-of-concept model th
     
 
 ---
+[Visually monitor Azure Data Factory](https://learn.microsoft.com/en-us/azure/data-factory/monitor-visually)
 
 #### ⚙️ Solution and Workflow
 To tackle this, I used **Azure's Custom Vision service**, an AI tool designed for building specialized image classifiers with ease.
