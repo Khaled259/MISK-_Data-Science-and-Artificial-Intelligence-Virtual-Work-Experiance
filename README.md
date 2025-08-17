@@ -33,8 +33,8 @@ The project was structured into multiple hands-on tasks, each designed to simula
 - Build and deploy innovative AI solutions using Microsoft Azure.  
 - Apply machine learning techniques to a practical case study.
 
-I wrote thedocumentation for each task:
+I wrote the documentation for each task:
 * [Task 1: Environment Setup and Foundational Learning on Azure](https://github.com/Khaled259/MISK-_Data-Science-and-Artificial-Intelligence-Virtual-Work-Experiance/blob/8e0e9536f50a524b841d40f86495827b011895f4/1.%20Task/Task%20documentation.md)
 * [Task 2: Building a Data Ingestion Pipeline with Azure Data Factory](https://github.com/Khaled259/MISK-_Data-Science-and-Artificial-Intelligence-Virtual-Work-Experiance/blob/8e0e9536f50a524b841d40f86495827b011895f4/2.%20Task/Task%202%20documentation.md)
 * [Task 3: Building an Image Classification Model with Custom Vision](https://github.com/Khaled259/MISK-_Data-Science-and-Artificial-Intelligence-Virtual-Work-Experiance/blob/8e0e9536f50a524b841d40f86495827b011895f4/3.%20Task/Task%203%20documentation.md)
-* [Task 4: Developing a Predictive Car Pricing Model with Azure Machine Learningy](https://github.com/Khaled259/MISK-_Data-Science-and-Artificial-Intelligence-Virtual-Work-Experiance/blob/8e0e9536f50a524b841d40f86495827b011895f4/4.%20Task/Task%204%20documentation.md)
+* [Task 4: Developing a Predictive Car Pricing Model with Azure Machine Learning](https://github.com/Khaled259/MISK-_Data-Science-and-Artificial-Intelligence-Virtual-Work-Experiance/blob/8e0e9536f50a524b841d40f86495827b011895f4/4.%20Task/Task%204%20documentation.md)
