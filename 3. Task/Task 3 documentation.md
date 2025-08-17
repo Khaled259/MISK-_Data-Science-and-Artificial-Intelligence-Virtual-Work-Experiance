@@ -8,7 +8,7 @@ As a foundational first step, my task was to develop a proof-of-concept model th
 ---
 #### 🎯 Paths learned
  
-[Visually monitor Azure Data Factory](https://learn.microsoft.com/en-us/training/modules/introduction-computer-vision/)
+[Introduction to computer vision concepts](https://learn.microsoft.com/en-us/training/modules/introduction-computer-vision/)
 
 #### ⚙️ Solution and Workflow
 To tackle this, I used **Azure's Custom Vision service**, an AI tool designed for building specialized image classifiers with ease.
