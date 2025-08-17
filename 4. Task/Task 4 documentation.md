@@ -38,4 +38,5 @@ The visual graph below, built in Azure ML Designer, illustrates the end-to-end w
 After the pipeline successfully completed, the `Evaluate Model` component provided the following key performance metrics. These metrics measure how accurately the model was able to predict car prices on the unseen test data.
 
 The most critical metric for this regression task is the **Coefficient of Determination (R-squared)**, which was **0.83**. This indicates that the model is able to explain approximately **83% of the variability** in car prices based on the provided features, which is a strong result.
+
 ![Screenshot of the Evaluation](https://github.com/Khaled259/MISK-_Data-Science-and-Artificial-Intelligence-Virtual-Work-Experiance/blob/a1fd5ad0172d1194bf21681ca49d51a21a2a55af/4.%20Task/5.%20Model%20Evaluation.png)
