@@ -5,7 +5,7 @@ In the final task, the objective was to build a sophisticated solution to help b
 
 This required building a **regression model**, and I used the powerful, low-code **Azure Machine Learning Designer** to accomplish this.
 #### 🎯 Paths Learned:
-[Introduction to machine learning concepts]([path_to_your_pipeline_design.png](https://learn.microsoft.com/en-us/training/modules/fundamentals-machine-learning)
+[Introduction to machine learning concepts](https://learn.microsoft.com/en-us/training/modules/fundamentals-machine-learning)
 
 ---
 
