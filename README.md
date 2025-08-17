@@ -1,9 +1,9 @@
-# Data Science & Artificial Intelligence Project – Misk x Microsoft
+# 🚗 Data Science & Artificial Intelligence Project – Misk x Microsoft
 
-This repository contains a project completed as part of the **"Data Science and Artificial Intelligence"** learning track organized by **Misk** in collaboration with **Microsoft**.  
-The project focuses on practical data analysis, AI model development, and solution deployment using **Microsoft Azure** services.
+This repository contains my project for the **"Data Science and Artificial Intelligence"** virtual work experience program, a collaboration between **Misk Foundation** and **Microsoft**.
 
----
+The project simulates a real-world scenario where I acted as an **AI Software Developer** for a client in the **automotive trade sector**. The goal was to leverage the **Microsoft Azure** cloud platform to build data-driven solutions that enhance user experience and support business decisions.
+
 
 ## 📂 Project Overview
 
@@ -33,33 +33,8 @@ The project was structured into multiple hands-on tasks, each designed to simula
 - Build and deploy innovative AI solutions using Microsoft Azure.  
 - Apply machine learning techniques to a practical case study.
 
----
-
-## 🛠️ Tech Stack
-
-- **Programming Language:** Python  
-- **Cloud Services:** Microsoft Azure (Data Factory, Storage Account, Custom Vision, Azure Machine Learning)  
-- **Libraries & Tools:** Pandas, NumPy, Matplotlib, Scikit-learn, Jupyter Notebook
-
----
-
-## 📊 Skills Gained
-
-- Data Analysis & Visualization  
-- Machine Learning  
-- AI Solution Development  
-- Cloud-based AI Deployment (Azure)
-
----
-
-## 📸 Screenshots / Examples
-
-> *(Add project screenshots, charts, or Azure portal images here for better presentation.)*
-
----
-
-## 🚀 How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/YourUsername/YourRepositoryName.git
+I wrote thedocumentation for each task:
+* [Task 1: Environment Setup and Foundational Learning on Azure](https://github.com/Khaled259/MISK-_Data-Science-and-Artificial-Intelligence-Virtual-Work-Experiance/blob/8e0e9536f50a524b841d40f86495827b011895f4/1.%20Task/Task%20documentation.md)
+* [Task 2: Building a Data Ingestion Pipeline with Azure Data Factory](https://github.com/Khaled259/MISK-_Data-Science-and-Artificial-Intelligence-Virtual-Work-Experiance/blob/8e0e9536f50a524b841d40f86495827b011895f4/2.%20Task/Task%202%20documentation.md)
+* [Task 3: Building an Image Classification Model with Custom Vision](https://github.com/Khaled259/MISK-_Data-Science-and-Artificial-Intelligence-Virtual-Work-Experiance/blob/8e0e9536f50a524b841d40f86495827b011895f4/3.%20Task/Task%203%20documentation.md)
+* [Task 4: Developing a Predictive Car Pricing Model with Azure Machine Learningy](https://github.com/Khaled259/MISK-_Data-Science-and-Artificial-Intelligence-Virtual-Work-Experiance/blob/8e0e9536f50a524b841d40f86495827b011895f4/4.%20Task/Task%204%20documentation.md)
