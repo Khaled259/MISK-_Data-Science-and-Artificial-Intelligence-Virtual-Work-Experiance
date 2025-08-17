@@ -4,7 +4,9 @@
 Following the environment setup in Task 1, the next objective was to begin the data migration process. As part of the development team, my role was to simulate the ingestion of data from a disparate source (represented by an `emp.txt` file) and move it into our centralized Azure Storage Account. This is a foundational step in any data analytics or AI project.
 
 ---
-
+#### 🎯 Paths Learned:
+  1. ![Visually monitor Azure Data Factory](https://learn.microsoft.com/en-us/azure/data-factory/monitor-visually)
+  2. ![The Copy Data tool in Azure Data Factory Studio to copy data](https://learn.microsoft.com/en-us/azure/data-factory/quickstart-hello-world-copy-data-tool)
 #### ⚙️ Workflow Implemented
 The task was accomplished by building a data copy pipeline using the Azure Data Factory (ADF) Studio.
 
