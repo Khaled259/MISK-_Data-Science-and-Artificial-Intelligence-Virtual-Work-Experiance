@@ -30,13 +30,12 @@ This phase involved teaching the model and using it to make predictions.
 #### 📈 Pipeline Design and Execution Proof
 
 **1. Machine Learning Pipeline Design**
-The visual graph below, built in Azure ML Designer, illustrates the end-to-end workflow from data ingestion to model evaluation.
+The visual graph below, built in Azure ML Designer, illustrates the end-to-end workflow from data ingestion to model evaluation and  confirms that the pipeline was executed successfully, processing the data and training the model as designed.
 
-![Azure ML Designer Pipeline for Car Price Prediction](path_to_your_pipeline_design.png)
-> **Note:** Upload your screenshot of the pipeline design and replace `path_to_your_pipeline_design.png` with the actual file path.
+![Azure ML Designer Pipeline for Car Price Prediction](https://github.com/Khaled259/MISK-_Data-Science-and-Artificial-Intelligence-Virtual-Work-Experiance/blob/52199a8491a4f7970be426d2f6f9dfbe45f4c015/4.%20Task/4.%20Final%20Pipeline%20structure.png?raw=true)
 
-**2. Successful Job Execution**
-The following screenshot from the "Jobs" panel in Azure ML Studio confirms that the pipeline was executed successfully, processing the data and training the model as designed.
+#### 📊2. Model Performance and Evaluation
+After the pipeline successfully completed, the `Evaluate Model` component provided the following key performance metrics. These metrics measure how accurately the model was able to predict car prices on the unseen test data.
 
-![Screenshot of the Completed Pipeline Job in Azure ML Studio](path_to_your_job_completed.png)
-> **Note:** Upload your screenshot of the completed job and replace `path_to_your_job_completed.png` with the actual file path.
+The most critical metric for this regression task is the **Coefficient of Determination (R-squared)**, which was **0.83**. This indicates that the model is able to explain approximately **83% of the variability** in car prices based on the provided features, which is a strong result.
+![Screenshot of the Evaluation](https://github.com/Khaled259/MISK-_Data-Science-and-Artificial-Intelligence-Virtual-Work-Experiance/blob/a1fd5ad0172d1194bf21681ca49d51a21a2a55af/4.%20Task/5.%20Model%20Evaluation.png)
