@@ -4,7 +4,7 @@
 Building on the successful data pipeline from Task 2, my manager assigned the next phase: enhancing the user experience on the client's platform with AI. The long-term vision is a feature where users can upload a car photo, and the system automatically identifies its make, model, and specifications.
 
 As a foundational first step, my task was to develop a proof-of-concept model that could solve a simpler problem: **classifying whether an uploaded image contains a car or not.**
-
+---
 #### 🎯 Paths learned
     1. [Introduction to computer vision concepts](https://learn.microsoft.com/en-us/training/modules/introduction-computer-vision)
     [Visually monitor Azure Data Factory](https://learn.microsoft.com/en-us/azure/data-factory/monitor-visually)
